@@ -1,6 +1,6 @@
 @echo off
 
-set "VIRTUAL_ENV=S:\UserWorks\Po429\Kozlov\7.4\venv"
+set "VIRTUAL_ENV=D:\PyCharm\Works\7.7\venv"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
