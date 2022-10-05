@@ -4,13 +4,8 @@
     <list default="true" id="645ffe98-81fb-46c6-8646-f0420eac7673" name="Changes" comment="3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/user/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/pages/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/pages/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/user/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user/user/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/user/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/users/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/users/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/users/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/users/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/users/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/user/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/user/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
