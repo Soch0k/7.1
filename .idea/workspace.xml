@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="645ffe98-81fb-46c6-8646-f0420eac7673" name="Changes" comment="3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="645ffe98-81fb-46c6-8646-f0420eac7673" name="Changes" comment="45tr">
+      <change beforePath="$PROJECT_DIR$/user/articles/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/articles/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/user/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/user/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/user/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/user/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/user/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/templates/Article_delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/user/templates/Article_delete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/templates/Article_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/user/templates/Article_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/templates/Article_edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/user/templates/Article_edit.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Влад &lt;vlad.kozlov20032003@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -37,7 +43,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/PyCharm/Works/6",
+    "last_opened_file_path": "S:/UserWorks/Po429/Kozlov/7.4",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
@@ -83,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664632352833</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="45">
+      <created>1664962805860</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664962805860</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +113,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2" />
     <MESSAGE value="3" />
-    <option name="LAST_COMMIT_MESSAGE" value="3" />
+    <MESSAGE value="33" />
+    <MESSAGE value="45" />
+    <MESSAGE value="45tr" />
+    <option name="LAST_COMMIT_MESSAGE" value="45tr" />
   </component>
 </project>
