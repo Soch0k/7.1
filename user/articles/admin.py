@@ -1,8 +1,6 @@
 from django.contrib import admin
 
-from .models import Article
+from .models import Article, Coment
 
-class ArticleAdmin(admin.ModelAdmin):
-    list_display = ('title', 'body', 'date', 'author')
-
-admin.site.register(Article, ArticleAdmin)
+admin.site.register(Article)
+admin.site.register(Coment)
